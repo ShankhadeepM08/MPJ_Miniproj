@@ -8,3 +8,20 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven build
+target/
+
+# Audio files
+*.wav
+
+# OS
+.DS_Store
+
+# Vosk model (IMPORTANT)
+model/
